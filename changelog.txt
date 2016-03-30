@@ -1,5 +1,0 @@
-c23458e display copyright
-305e49e Add file header
-80414a7 Add build time
-90b104b remove de dll exe xml
-7c636ef Initial commit
