@@ -1,4 +1,4 @@
-### application.bat - 2016 - Villain sebastien ###
+### application.bat - 2016 - Arnaud ROMIL ###
 version= "2.0.0"
 build_hour= "11H00"
 
